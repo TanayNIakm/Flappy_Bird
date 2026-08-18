@@ -12,5 +12,5 @@ On One day I was Just sitting And playing Flappy Bird On My Watch, Then After So
 5] Fully Functional
 6] Improved hitboxes than the ship-1
 
-#Developer Mode 
+# Developer Mode 
 When we click the dev mode button it says to give password if we type password "admin" it unlocks the invincibility mode means your bird is invincible. It's just a fun button made for fun by me :) 
